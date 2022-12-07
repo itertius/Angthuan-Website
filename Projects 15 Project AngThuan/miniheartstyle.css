@@ -1,0 +1,22 @@
+body {
+    display: grid;
+    font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+    font-size: 30px;
+    height: 1vh;
+    margin: 0px;
+    background: linear-gradient(240deg, pink,lightpink,azure)
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
