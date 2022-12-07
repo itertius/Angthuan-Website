@@ -20,3 +20,37 @@ h2 {
     justify-content: center;
     align-items: center;
 }
+
+h3 {
+    padding: 1%;
+    margin: 5%;
+    font-size: 25px;
+    }
+
+.previous-btn {
+    display: inline-block;
+    text-decoration: none;
+    background: white;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.previous-btn:link {
+    color: black;
+}
+
+.previous-btn:visited {
+    color: black;
+}
+
+.previous-btn:hover {
+    color: grey;
+}
+
+.previous-btn:active {
+    color: grey;
+}
